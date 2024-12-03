@@ -1,4 +1,17 @@
+"""
+https://adventofcode.com/2024/day/1
 
+Time: 25 minutes
+Issues:
+- part 1
+    - was not familiar with zip()
+    - did not know that .sort works in place. do not used this in a return or to set a new value
+    - file input: needed to remember how to setup reading the txt file of problem input.
+
+- part 2 
+    - did not read instructions properly for part2, mis understood how score was calculated.
+
+"""
 def write_lists(file):
     col1 = []
     col2 = []
