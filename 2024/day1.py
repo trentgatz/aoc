@@ -9,7 +9,7 @@ Issues:
     - file input: needed to remember how to setup reading the txt file of problem input.
 
 - part 2 
-    - did not read instructions properly for part2, mis understood how score was calculated.
+    - did not read instructions properly for part2, misunderstood how score was calculated.
 
 """
 def write_lists(file):
